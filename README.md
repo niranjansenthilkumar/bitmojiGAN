@@ -10,3 +10,5 @@ Future:
 In the future, if this is successful I want to add other gan generators, maybe more cartoon stuff, and maybe like other photography stuff where people can change the weather in their photos, or even delve into photos and filters.
 
 I think this could be good because tiktok could be like a flywheel where everytime we add a new filter -> it gets popular on tiktok and then downloads will come to us, which will then convert money if we do a subscription or ads or something.
+
+And instead of instagram using the filters, I could get the ads or someshit on it.

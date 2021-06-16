@@ -12,3 +12,19 @@ In the future, if this is successful I want to add other gan generators, maybe m
 I think this could be good because tiktok could be like a flywheel where everytime we add a new filter -> it gets popular on tiktok and then downloads will come to us, which will then convert money if we do a subscription or ads or something.
 
 And instead of instagram using the filters, I could get the ads or someshit on it.
+
+
+steps:
+
+1. do research
+2. gather research materials and plan methodolgy
+3. perform testing in notebook
+4. refine
+5. once i have model then export it into iphone application
+
+
+future:
+dancing 3d model shit that would be really cool, and they could sync with you also. im gonna look into that research paper.
+
+masterplan:
+build bitmoji thing, then arsenal of other gan applications, then use expertise/users to deploy 3d dancing thing.

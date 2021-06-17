@@ -16,3 +16,4 @@ https://medium.com/syncedreview/landmark-assisted-cyclegan-draw-me-like-one-of-y
 
 https://github.com/niranjansenthilkumar/bitmojiGAN
 
+https://research.fb.com/wp-content/uploads/2018/08/Unsupervised-Generation-of-Free-Form-and-Parameterized-Avatars.pdf
